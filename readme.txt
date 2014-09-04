@@ -18,11 +18,11 @@ Use it if you know the dashboard, if you know the location of every part
 of dashboard because Solarized's contrast is lower than other color schemes
 to ease your eyes.
 
-This plugin is based on the project [Ethan Schoonover](http://ethanschoonover.com/solarized) of the same name.
+This plugin is based on [Ethan Schoonover's](http://ethanschoonover.com/solarized) project of the same name.
 
 = How do I switch color scheme? =
 
-On the Dashboard go to Users / Your Profile and click on "Solarized"
+On the Dashboard go to Users / Your Profile and click on "Solarized".
 
 
 == Installation ==
