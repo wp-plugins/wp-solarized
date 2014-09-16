@@ -4,7 +4,7 @@ Donate link: https://szepe.net/wp-donate/
 Tags: solarized, admin, dashboard, color, color scheme
 Requires at least: 3.8
 Tested up to: 4.0
-Stable tag: 0.1
+Stable tag: 0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,7 +24,6 @@ This plugin is based on [Ethan Schoonover's](http://ethanschoonover.com/solarize
 
 On the Dashboard go to Users / Your Profile and click on "Solarized".
 
-
 == Installation ==
 
 This section describes how to install the plugin and get it working.
@@ -40,7 +39,7 @@ This plugin is to ease your eyes not to provide high visibility
 
 == Screenshots ==
 
-1. The dashboard
+1. Plugin list page
 
 == Changelog ==
 
