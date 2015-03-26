@@ -1,4 +1,4 @@
-=== WordPress Solarized ===
+=== WordPress Solarized Admin Color Schemes ===
 Contributors: szepe.viktor
 Donate link: https://szepe.net/wp-donate/
 Tags: solarized, admin, dashboard, color, color scheme
@@ -8,7 +8,7 @@ Stable tag: 0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Make the dashboard Solarized, ease your eyes
+Make the dashboard Solarized, ease your eyes.
 
 == Description ==
 Adds an admin color scheme which not only colorizes the admin menu and
