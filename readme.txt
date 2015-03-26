@@ -1,4 +1,4 @@
-=== WordPress Solarized Admin Color Schemes ===
+=== WordPress Solarized Admin Color Scheme ===
 Contributors: szepe.viktor
 Donate link: https://szepe.net/wp-donate/
 Tags: solarized, admin, dashboard, color, color scheme
